@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Rifat Sheikh**
 
-🔐 Aspiring Cybersecurity Professional | 🛡️ Web Security Learner | 💻 Security-Focused Developer  
+🔐 Aspiring Cybersecurity Specialist | 🛡️ Web Security Learner | 💻 Security-Focused Developer  
 
 I’m currently learning and practicing **cybersecurity fundamentals**, with a strong focus on **web application security**.
 
