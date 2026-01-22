@@ -30,5 +30,3 @@ I believe cybersecurity is best learned through **practice, research, and respon
 
 All repositories and experiments are for **educational purposes only**.  
 Testing is performed only on systems I own or have explicit permission to test.
-
----
