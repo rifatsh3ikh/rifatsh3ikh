@@ -6,7 +6,7 @@ I’m currently learning and practicing **cybersecurity fundamentals**, with a s
 
 ---
 
-## 👤 Who are you?
+## 👤 Who am I?
 
 I’m an **aspiring cybersecurity professional** building hands-on experience in:
 - Web application security testing
@@ -18,7 +18,7 @@ I believe cybersecurity is best learned through **practice, research, and respon
 
 ---
 
-## 🚧 What are you currently working on?
+## 🚧 What am I currently working on?
 
 🔹 Learning and practicing:
 - OWASP Top 10 vulnerabilities
@@ -33,7 +33,7 @@ I believe cybersecurity is best learned through **practice, research, and respon
 
 ---
 
-## 🧰 What tools do you use?
+## 🧰 Tools & Technologies
 
 ### 🔐 Security & Learning Tools
 - Burp Suite (learning)
@@ -53,7 +53,7 @@ I believe cybersecurity is best learned through **practice, research, and respon
 
 ## 📫 How to reach me?
 
-- Linkedin: ***https://www.linkedin.com/in/rifatsh3ikh***
+- LinkedIn: ***https://www.linkedin.com/in/rifatsh3ikh***
 - Email: ***rifatsh3ikh@gmail.com***
 - Portfolio: ***https://rifatsh3ikh.github.io/portfolio***
 
